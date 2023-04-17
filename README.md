@@ -3,6 +3,8 @@ Progressive Web Applications (PWA) Challenge: Text Editor
 
 This web application allows you to create and save notes or code snippets with or without an internet connection. You can access your saved notes anytime and anywhere, without the need to rely on an internet connection.
 
+### Deployed Website: https://jate-naz.herokuapp.com/
+
 Features
 --------
 
